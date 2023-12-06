@@ -1,1 +1,1 @@
-# 3wa-formation-node
+Formation node
